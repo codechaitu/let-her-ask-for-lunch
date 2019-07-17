@@ -1,0 +1,4 @@
+
+REACT_EMOJI_SUNGLASSES = "sunglasses"
+
+REACT_EMOJI_SOB = "sob"
