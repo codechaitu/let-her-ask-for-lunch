@@ -9,7 +9,7 @@ slack = Slacker(SLACK_API_TOKEN)
 
 # Global values used, when we get response from requested user. bookCalendar needs these values. Assaiging default values
 EVENT = "meet"
-EMAIL = "g.shivachaitanya@gmail.com"
+EMAIL = "pqr@tlm.com"
 TO = ""
 
 # Flask webserver for incoming traffic from Slack
