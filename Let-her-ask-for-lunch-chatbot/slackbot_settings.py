@@ -1,5 +1,5 @@
 
-API_TOKEN = "xoxb-2176621074-673246857827-Dcc7TWmoyzXpsV8FIK1MP9vE"
+API_TOKEN = "SLACK_API_TOKEN"
 
 DEFAULT_REPLY = "Hello, nice to meet you !"
 
