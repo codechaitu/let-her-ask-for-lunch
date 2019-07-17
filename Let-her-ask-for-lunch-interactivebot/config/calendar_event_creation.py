@@ -1,5 +1,5 @@
 
-DEFAULT_MEMBER = 'codechaitu@mercari.com'
+DEFAULT_MEMBER = 'abc@xyz.com'
 HELLO_MESSAGE_EN = "Hello, I am codechaitu's assistant. Chaitu says, "
 HELLO_MESSAGE_JP = "こんにちは、私はcodechaituのアシスタントです。"
 
